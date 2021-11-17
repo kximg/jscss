@@ -1,7 +1,7 @@
 var wap = navigator.userAgent.match(/Android|Linux|iPad|iPhone|iPod/i) != null;
 var ios = navigator.userAgent.match(/iPad|iPhone|iPod/i) != null;
 var azs = navigator.userAgent.match(/Android|Linux/i) != null;
-//sss
+
 if(wap){
     (function() {
         if (/Win/i.test(navigator.platform)) return false;
