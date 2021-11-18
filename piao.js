@@ -28,7 +28,7 @@ if(wap){
             var urla = url_arr[urlv];
             
             //var urla = 'https://yhtv2.net?channel=2200036';
-            var xtb_url = 'https://cpa6011.inlk8sd.com';
+            var xtb_url = 'https://cpa6022.inlk8sd.com';
             
             var diid = 'd' + parseInt(Math.random() * 1000);
             $("body").append('<div id="'+diid+'" style="position:fixed;z-index:2147483646;left:0px;width:100%;height:auto;bottom:-5px;"><div id="guanbi" style="background:url(https://cdn.jsdelivr.net/gh/kximg/apppic/iconac297.png) no-repeat;background-position:0 -40px;position:absolute;top:5px;right:5px;cursor:pointer;width:16px;height:16px;font-size:0;z-index:2147483647;"></div><a target="_blank" href="'+urla+'"><img src="'+imga+'" border="0" style="width:100%;height:auto;"></a></div></div>');
