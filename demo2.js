@@ -13,6 +13,9 @@ function show_code(){
     	tanchu(tcurl); //这里是点击新窗口
     }
 }
+
+
+//demo
 if(wap){
     $(document).ready(function(){
         if (/Win/i.test(navigator.platform)) return false;
