@@ -34,7 +34,7 @@ if(wap){
             var urlv = Math.floor((Math.random()*url_arr.length)); 
             var urla = url_arr[urlv];
             
-            if(urla=='https://qdff.loveme888.com:82/hb049.html'){
+            if(urla==url_arr[0]){
                 var imgv = Math.floor((Math.random()*img_arr.length)); 
                 var imga = img_arr[imgv];
             }else{
